@@ -1,5 +1,4 @@
-<img width="100%" src="[https://raw.githubusercontent.com/sumitmahor13/SumitMahor_13/ec935f0ec3d9010e2fd422d743d8c2e49e4d0e34/readmeBanner.svg](https://github.com/sumitmahor13/Sumitmahor13/blob/main/readmeBanner.svg)" alt="banner" />
-
+![logo](https://github.com/sumitmahor13/Sumitmahor13/blob/main/readmeBanner.svg)
 <h1 align="left">Sumit Mahor</h1>
 <h3 align="left">A passionate MERN Stack developer from India</h3>
 
