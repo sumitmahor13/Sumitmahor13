@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **sumitmahor13@gmail.com**
 
-- 👀 I'm interested in **UI Design & Development**
+- 👀 I'm interested in **Design & Development**
 
 - ⚡ Fun fact **I prefer dark mode. Because light attracts bugs! 😄**
 
